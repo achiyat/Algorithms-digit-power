@@ -1,5 +1,12 @@
 # 💻 Algorithms - Digit Power Sum
 
+I invite you to visit my resume website:
+[Click here](https://resume-achiya-tzuriel.netlify.app/)
+
+The algorithm was tested and scored: ⭐⭐⭐⭐⭐
+
+# 
+
 Some numbers have interesting properties. For example:
 
 - 89 --> 8¹ + 9² = 89 * 1
@@ -32,12 +39,17 @@ To use the Morse code decoder, simply clone this repository and include the func
 ```bash
 git clone https://github.com/achiyat/Algorithms-digit-power.git
 ```
+
 ## 📞 Contact
-📧 Email - [achiya308@gmail.com](mailto:achiya308@gmail.com)
 
-🔗 linkedin - [https://www.linkedin.com/in/achiya-tzuriel/](https://www.linkedin.com/in/achiya-tzuriel/)
+📧 **Email:** [achiya308@gmail.com](mailto:achiya308@gmail.com)
 
-🔗 Project Link: [https://github.com/achiyat/Algorithms-digit-power](https://github.com/achiyat/Algorithms-digit-power)
+🔗 **LinkedIn:** [Achiya Tzuriel](https://www.linkedin.com/in/achiya-tzuriel/)
+
+🔗 **Personal website Link:** [Personal website](https://resume-achiya-tzuriel.netlify.app/)
+
+🔗 Project Link: [algorithms digit power](https://github.com/achiyat/Algorithms-digit-power)
 
 Thanks for visiting my GitHub profile! 😊
-Achiya Tzuriel 
+
+**Achiya Tzuriel**
